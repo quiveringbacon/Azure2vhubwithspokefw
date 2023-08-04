@@ -4,6 +4,6 @@ This creates a vwan with 2 vwan hubs and a couple of spoke vnets with VM's conne
 
 ![image](https://github.com/quiveringbacon/Azure2vhubwithspokefw/assets/128983862/edf37300-b8a3-482b-aeb2-92894c2688d2)
 
-You can run Terraform right from the Azure cloud shell by cloning this git repository with "git clone https://github.com/quiveringbacon/Azures2vhubwithspokefw.git ./terraform".
+You can run Terraform right from the Azure cloud shell by cloning this git repository with "git clone https://github.com/quiveringbacon/Azure2vhubwithspokefw.git ./terraform".
 
 Then, "cd terraform" then, "terraform init" and finally "terraform apply -auto-approve" to deploy.
