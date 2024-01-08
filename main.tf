@@ -937,7 +937,7 @@ resource "azurerm_subnet_route_table_association" "onspoke1defaultsubnet" {
   timeouts {
     create = "2h"
     read = "2h"
-    update = "2h"
+    #update = "2h"
     delete = "2h"
   }
 }
@@ -947,7 +947,7 @@ resource "azurerm_subnet_route_table_association" "onspoke2defaultsubnet" {
   timeouts {
     create = "2h"
     read = "2h"
-    update = "2h"
+    #update = "2h"
     delete = "2h"
   }
 }
@@ -957,7 +957,7 @@ resource "azurerm_subnet_route_table_association" "onspoke3defaultsubnet" {
   timeouts {
     create = "2h"
     read = "2h"
-    update = "2h"
+    #update = "2h"
     delete = "2h"
   }
 }
@@ -968,7 +968,7 @@ resource "azurerm_subnet_route_table_association" "ononpremdefaultsubnet" {
   timeouts {
     create = "2h"
     read = "2h"
-    update = "2h"
+    #update = "2h"
     delete = "2h"
   }
 }
@@ -979,7 +979,7 @@ resource "azurerm_subnet_route_table_association" "ononpremdefaultsubnet2" {
   timeouts {
     create = "2h"
     read = "2h"
-    update = "2h"
+    #update = "2h"
     delete = "2h"
   }
 }
