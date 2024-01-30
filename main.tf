@@ -16,7 +16,7 @@ provider "azapi" {
 #variables
 /*
 variable "A-location" {
-    description = "Location of the resources"
+    description = "Location of the resources, example: eastus2"
     #default     = "eastus"
 }
 */
